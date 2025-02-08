@@ -1,0 +1,16 @@
+/* Make each carousel item use flexbox to place items side by side */
+.carousel-item {
+    display: flex;
+    align-items: center; /* vertically center the content */
+}
+
+/* Optional: if you need to adjust the gap between the image and text */
+.wordings {
+    padding-left: 20px;
+}
+
+/* Reduce image height */
+.carousel-item img {
+    height: 400px;       /* Adjust as needed */
+    object-fit: cover;   /* Ensures the image fills its container */
+}

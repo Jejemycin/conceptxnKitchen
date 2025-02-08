@@ -16,7 +16,7 @@
 ## 🎨 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, React, jQuery  
 - **Backend:** (Future Implementation) Node.js, Express.js  
-- **Database:** (Future Implementation) MongoDB  
+- **Database:** (Future Implementation) PostgreSQL  
 - **Version Control:** Git & GitHub  
 
 ## 🏗️ Project Structure  
